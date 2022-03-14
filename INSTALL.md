@@ -144,6 +144,5 @@ The GUI depends on the `capstone`, `freetype` and `glfw` libraries and their hea
 
     # On Ubuntu
     $ sudo apt-get install libcapstone-dev libfreetype6-dev libglfw3-dev libgtk2.0-dev
-
     # On MacOS
     $ brew install capstone freetype2 glfw
